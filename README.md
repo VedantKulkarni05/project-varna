@@ -1,3 +1,6 @@
+# Project-Verna
+
+
 # Getting Started with Expo + NativeWind (Tailwind CSS)
 
 Setting up a React Native project with Tailwind CSS is traditionally more tedious than a web stack like React + Vite. This guide serves as a cheat sheet for configuring the tech stack from scratch and managing the mobile development workflow.
